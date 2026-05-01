@@ -42,7 +42,7 @@ repository-name
 
 ---
 
-## 🛠️ Công nghệ & thư viện sử dụng
+## Công nghệ & thư viện sử dụng
 *   **Ngôn ngữ:** Python 3
 *   **Xử lý dữ liệu:** Pandas, NumPy
 *   **Trực quan hóa:** Matplotlib, Seaborn
