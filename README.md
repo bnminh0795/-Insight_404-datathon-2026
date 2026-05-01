@@ -2,11 +2,11 @@
 
 Repository này chứa toàn bộ mã nguồn, quy trình phân tích và mô hình học máy để giải quyết bài toán Dự báo Doanh thu thuộc khuôn khổ cuộc thi VinTelligence Datathon 2026.
 
-## 📁 Cấu trúc Thư mục (Repository structure)
+## Cấu trúc thư mục (Repository structure)
 
 Dự án được tổ chức theo luồng công việc tuyến tính, từ dữ liệu thô đến kết quả dự báo cuối cùng:
 ```text
-📦 repository-name
+repository-name
  ┣ 1_data_cleaing.ipynb     # Tiền xử lý, xử lý missing values và làm sạch dữ liệu thô
  ┣ 2_eda.ipynb              # Phân tích Khám phá Dữ liệu (EDA) và tìm kiếm Insights
  ┣ 3_model_baseline.ipynb   # Feature Engineering, Huấn luyện mô hình, Ensemble và Xuất kết quả
