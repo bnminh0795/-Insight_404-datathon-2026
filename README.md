@@ -7,14 +7,14 @@ Repository này chứa toàn bộ mã nguồn, quy trình phân tích và mô h�
 Dự án được tổ chức theo luồng công việc tuyến tính, từ dữ liệu thô đến kết quả dự báo cuối cùng:
 ```text
 📦 repository-name
- ┣ 📜 1_data_cleaing.ipynb     # Tiền xử lý, xử lý missing values và làm sạch dữ liệu thô
- ┣ 📜 2_eda.ipynb              # Phân tích Khám phá Dữ liệu (EDA) và tìm kiếm Insights
- ┣ 📜 3_model_baseline.ipynb   # Feature Engineering, Huấn luyện mô hình, Ensemble và Xuất kết quả
- ┣ 📜 README.md                # Tài liệu hướng dẫn chạy mã nguồn
- ┗ 📜 submission.csv           # File kết quả dự báo doanh thu cuối cùng
+ ┣ 1_data_cleaing.ipynb     # Tiền xử lý, xử lý missing values và làm sạch dữ liệu thô
+ ┣ 2_eda.ipynb              # Phân tích Khám phá Dữ liệu (EDA) và tìm kiếm Insights
+ ┣ 3_model_baseline.ipynb   # Feature Engineering, Huấn luyện mô hình, Ensemble và Xuất kết quả
+ ┣ README.md                # Tài liệu hướng dẫn chạy mã nguồn
+ ┗ submission.csv           # File kết quả dự báo doanh thu cuối cùng
 ```
 
-## 🚀 Hướng dẫn Chạy lại kết quả (How to reproduce)
+## Hướng dẫn Chạy lại kết quả (How to reproduce)
 
 **Môi trường khuyến nghị:** Các Notebook trong dự án này được thiết kế để chạy tốt nhất trên **Google Colab**. Các đường dẫn tải dữ liệu (từ Google Drive) và lệnh tự động tải file kết quả đã được cấu hình sẵn bên trong code.
 
